@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+  color: blueviolet;
+}
+
+button {
+  background-color: #3498db;
+  /* Color de fondo */
+  color: white;
+  padding: 10px 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-right: 10px;
+}
+
+button:hover {
+  background-color: #92c5e7;
+  /* Cambio de color en el hover */
+}
+
+
