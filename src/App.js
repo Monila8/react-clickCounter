@@ -25,3 +25,8 @@ const handleReset = () => {
 }
 
 export default App
+
+// useState: A hook that allows adding state to functional components.
+// Increments the value of the counter using setCount(count + 1).
+// Sets the value of the counter to 0 using setCount(0).
+// The return method renders the elements on the screen. It displays the current value of the counter.
